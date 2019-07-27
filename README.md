@@ -42,3 +42,4 @@
 2. USB2/3
 3. CameraLink
 4. mipi
+...
